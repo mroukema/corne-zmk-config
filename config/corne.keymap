@@ -19,10 +19,10 @@
 // | GUI  |  J  |  V  |  G  |  P  |  B  |   |  X  |  W   |  .  |  U  |  Q  | GUI  |
 //                    | GUI |  E  | BKSP|   | ENT | SPC  | GUI |
                         bindings = <
-   &kp TAB  &kp FSLH &kp C    &kp Y &kp F &kp K      &kp Z     &kp L     &kp COMMA &kp SEMI &kp SQT  &kp EQUAL
-   &kp ESC  &kp R    &kp S    &kp T &kp H &kp D      &kp M     &kp N     &kp A     &kp I    &kp O    &kp MINUS
-   &kp LGUI &kp J    &kp V    &kp G &kp P &kp B      &kp X     &kp W     &kp DOT   &kp U    &kp Q    &kp LGUI
-                     &kp LGUI &kp E &kp BKSP         &kp ENT   &kp SPACE &kp LGUI
+   &kp TAB  &kp SLASH &kp C    &kp Y &kp F &kp K      &kp Z     &kp L     &kp COMMA &kp SEMI &kp SQT  &kp EQUAL
+   &kp ESC  &kp R     &kp S    &kp T &kp H &kp D      &kp M     &kp N     &kp A     &kp I    &kp O    &kp MINUS
+   &kp LGUI &kp J     &kp V    &kp G &kp P &kp B      &kp X     &kp W     &kp DOT   &kp U    &kp Q    &kp LGUI
+                      &kp LGUI &kp E &kp BKSP         &kp RET   &kp SPACE &kp LGUI
                         >;
                 };
                 lower_layer {
